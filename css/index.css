@@ -1,15 +1,15 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: #54311b;
+    background: #417ba9;
   }
   
   .topnav {
     overflow: hidden;
-    background: #8E2DE2;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
+    background: #005C97;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #363795, #005C97);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #363795, #005C97); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   }
   
   .topnav a {
@@ -43,7 +43,10 @@ body {
     gap: 20px;
     padding: 20px;
     grid-auto-flow: dense;
-    background: #54311b;
+    background: #076585;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
 
 }
 .grid-item-container {
@@ -137,7 +140,10 @@ body {
       gap: 20px;
       padding: 20px;
       grid-auto-flow: dense;
-      background: #54311b;
+      background: #076585;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to right, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to right, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      
   
   }
     
